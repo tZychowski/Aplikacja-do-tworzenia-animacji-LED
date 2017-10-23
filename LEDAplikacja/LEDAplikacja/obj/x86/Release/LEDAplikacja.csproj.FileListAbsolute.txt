@@ -1,0 +1,8 @@
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\bin\Release\LEDAplikacja.exe
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\bin\Release\LEDAplikacja.pdb
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Release\LEDAplikacja.Form1.resources
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Release\LEDAplikacja.Properties.Resources.resources
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Release\LEDAplikacja.csproj.GenerateResource.Cache
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Release\LEDAplikacja.exe
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Release\LEDAplikacja.pdb
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Release\LEDAplikacja.csprojResolveAssemblyReference.cache

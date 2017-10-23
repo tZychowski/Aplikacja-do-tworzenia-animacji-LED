@@ -1,0 +1,15 @@
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\bin\Debug\LEDAplikacja.exe
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\bin\Debug\LEDAplikacja.pdb
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\obj\x86\Debug\LEDAplikacja.Form1.resources
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\obj\x86\Debug\LEDAplikacja.Properties.Resources.resources
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\obj\x86\Debug\LEDAplikacja.csproj.GenerateResource.Cache
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\obj\x86\Debug\LEDAplikacja.exe
+C:\Users\Orzech\AppData\Local\Temporary Projects\LEDAplikacja\obj\x86\Debug\LEDAplikacja.pdb
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Debug\LEDAplikacja.exe
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Debug\LEDAplikacja.pdb
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\bin\Debug\LEDAplikacja.exe
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\bin\Debug\LEDAplikacja.pdb
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Debug\LEDAplikacja.Form1.resources
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Debug\LEDAplikacja.Properties.Resources.resources
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Debug\LEDAplikacja.csproj.GenerateResource.Cache
+C:\Users\Orzech\Desktop\LEDAplikacja\LEDAplikacja\obj\x86\Debug\LEDAplikacja.csprojResolveAssemblyReference.cache
